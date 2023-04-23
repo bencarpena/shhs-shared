@@ -1,6 +1,6 @@
-# Twitter's Recommendation Algorithm
+# Raspberry Pi and Python projects
 
-Twitter's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of Tweets and other content across all Twitter product surfaces (e.g. For You Timeline, Search, Explore). For an introduction to how the algorithm works, please refer to our [engineering blog](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm).
+This repo is a set of Raspberry Pi projects powered by Python. It aims to give students of South Houston High School sample engineering projects that are integrated with cloud-native services. More info at [engineering deck](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm).
 
 ## Architecture
 
