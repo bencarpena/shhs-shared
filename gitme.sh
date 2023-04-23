@@ -8,4 +8,4 @@ echo "=================================="
 
 git add .
 git commit -m $dt
-git push origin master
+git push origin main
