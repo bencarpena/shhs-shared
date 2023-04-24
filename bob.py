@@ -105,9 +105,9 @@ try:
 			os.system(TakePic)
 			response = client.files_upload(
 			channels='#arcturus-bob',
-			file="/home/pi/Scripts/Camera/77389-garage.jpg",
+			file='/directoryhere/Camera/77389-garage.jpg',
 			media="file",
-			initial_comment="movement screenshot : " + str(datetime.datetime.now()))
+			initial_comment='movement screenshot : ' + str(datetime.datetime.now()))
 			assert response["ok"]
 			
 			time.sleep(2)
