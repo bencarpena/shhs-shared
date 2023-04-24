@@ -35,4 +35,4 @@ The product surface currently included in this repository is the For You Timelin
 
 I invite the community to submit GitHub issues and pull requests for suggestions on improving the project specs, codes and overall algorithm. 
 
-DM the author at Twitter [here](https://twitter.com/bencarpena)
+[@bencarpena](https://twitter.com/bencarpena)
