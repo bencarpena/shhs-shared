@@ -4,7 +4,7 @@ This repo is a set of Raspberry Pi projects powered by Python. It aims to give s
 
 ## Architecture
 
-Product surfaces at Twitter are built on a shared set of data, models, and software frameworks. The shared components included in this repository are listed below:
+End-product surfaces are built on a shared set of data, models, and software frameworks. The shared components included in this repository (which are implemented in the solutions) are listed below:
 
 | Type | Component | Description |
 |------------|------------|------------|
